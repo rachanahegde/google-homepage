@@ -10,12 +10,14 @@
     <body>
         <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="google logo" style="width:272px;height:92px;" id="logo">
         
-        <div class="searchbarcontainer" tabindex="1">
+        <div class="searchbarcontainer">
             <div class="searchbar">         
                 <div class="iconsearch">
                     <img id="icon-search" src="assets/images/search.png">
                 </div>
-                <input class="search" type="text">
+                <form class="search2" action="example.php" autocomplete="off">
+                    <input type="text" name="search" id="search" tabindex="1">
+                </form>
                 <div class="mic">
                     <img id="mic" src="assets/images/mic.png">
                 </div> 
