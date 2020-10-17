@@ -43,3 +43,18 @@ table {
 }
 
 /* my code starts here */
+#logo {
+  position: relative;
+  left: 570px;
+  padding-top: 200px;
+}
+
+#search {
+  position: relative;
+  left: 450px; 
+  margin-top: 20px;
+  border-radius: 2cm;
+  width: 500px;
+  height: 40px;
+  font-size: 16px;
+}
