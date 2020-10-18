@@ -110,7 +110,6 @@ li a:hover {
   width: 550px;
   height: 44px;
   font-size: 16px;
-  
 }
 
 #search {
@@ -124,7 +123,8 @@ li a:hover {
 }
 
 #icon-search {
-  width: 1.6%;
+  /* width: 1.6%; */
+  width: 20px;
   position: relative;
   left: 31%;
   top: 2.8em;
@@ -132,7 +132,8 @@ li a:hover {
 }
 
 #mic {
-  width: 1.1%;
+  /* width: 1.1%; */
+  width: 14px;
   position: relative;
   left: 65.5%;
   bottom: -11px;
