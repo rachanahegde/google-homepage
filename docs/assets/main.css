@@ -173,8 +173,10 @@ li a:hover {
 }
 
 footer {
-  position: relative;
-  top: 23em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background-color: rgb(242, 241, 241);
   color: rgb(111, 110, 110);
   height: 8em;
