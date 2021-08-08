@@ -1,4 +1,4 @@
-<h1> google homepage </h1>
+<h1> Google Homepage Project </h1>
 
 I did the google homepage project for The Odin Project's Web Dev 101 course. This is the easy version of the project which involves deconstructing an existing web page and rebuilding it. There was a steep learning curve but now I have a better understanding of HTML and CSS. ** Please note: This webpage won't load properly on phones and isn't responsive (I'm still learning!). I designed it for a laptop screen. 
 
